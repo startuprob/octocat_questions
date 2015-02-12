@@ -1,1 +1,1 @@
-Explain what "upstream" remote is usually used for, in your own words
+Upstream is best considered in the context of a repo that was forked on github before pulling it down to one's local machine. When this happens there is essentially two repos: origin and upstream. Upstream is the original repo that was forked and origin is the fork.
